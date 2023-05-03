@@ -6,6 +6,12 @@
   background-color: #54b4e6;
   height: 50px;
   }
+
+  @font-face {
+    font-family: empires;
+    src: url(../tipografias/Empires.otf);
+  }
+
   
   .background-img {
     position: fixed;
@@ -97,7 +103,7 @@
   .info-me {
     font-size: 25px;
     color: #ffffff;
-    font-family: "Berlin Sans FB";
+    font-family: "Berlin sans FB";
   }
   
   .btn-info {
